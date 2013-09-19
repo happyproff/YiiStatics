@@ -1,6 +1,6 @@
 # YiiStatics
 
-Велосипедный way to publish and include your JS and CSS code in Yii project.
+Another bicycle-way to publish and include your JS and CSS code in Yii project.
 
 ## Installing and configuring
 
