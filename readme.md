@@ -6,7 +6,7 @@ Easiest way to publish and include your JS and CSS code in Yii project.
 
 Run `git clone https://github.com/happyproff/YiiStatics protected/extensions/yii-statics` in your project dir.
 
-Then register YiiStatics as application component by editing configuration (by default `/protected/config/main.php`).
+Then register YiiStatics as application component by editing configuration (by default `protected/config/main.php`).
 
     'components' => [
         ...
