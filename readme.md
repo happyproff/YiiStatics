@@ -1,6 +1,6 @@
 # YiiStatics
 
-Easiest way to publish and include your JS and CSS code in Yii project.
+Велосипедный way to publish and include your JS and CSS code in Yii project.
 
 ## Installing and configuring
 
